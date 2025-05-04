@@ -29,4 +29,3 @@ Embora meu foco profissional seja Engenharia de Dados, entendo a importância de
 ## 💡 Próximos Passos
 
 Pretendo transformar este exercício em um mini-projeto de dados, simulando uma base de dados e aplicando técnicas de ingestão, análise e visualização.
-
